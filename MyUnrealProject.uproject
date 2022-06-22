@@ -30,6 +30,10 @@
 		{
 			"Name": "GeometryScripting",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	]
 }
